@@ -32,7 +32,7 @@
 <p align="center">
 <a href="mailto:qlduarhk@gmail.com">
 <img src="https://img.shields.io/badge/gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:qlduarhk@gmail.com"/></a>
-<a href="https://blog.naver.com/rlclqk">
+<a href="">
 <img src="https://img.shields.io/badge/blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=https://blog.naver.com/rlclqk"/></a>
 <a href="https://instagram.com/hhjjung_">
 <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://instagram.com/hhjjung_"/></a>
