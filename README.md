@@ -9,7 +9,12 @@
 -->
 </p></br>
 
-<a href="https://github.com/410am/edugrove"><h3 align="center">🎥 화상 채팅 서비스 🎥</h3></a>
+  
+<p align="center">
+  <a href="https://github.com/410am/edugrove"><strong>🎥 화상 채팅 서비스 🎥</strong></a>
+</p>
+ 
+
 </br>
 </br>
 
